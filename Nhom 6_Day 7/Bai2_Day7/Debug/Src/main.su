@@ -1,0 +1,6 @@
+main.c:52:5:main	16	static
+main.c:79:6:delay	16	static
+main.c:90:13:buzzer_Init	16	static
+main.c:119:13:button_Init	16	static
+main.c:150:13:buzzerControlSetStatus	16	static
+main.c:167:16:buttonReadStatus	24	static
